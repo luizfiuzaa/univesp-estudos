@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10b73e676c94847a",
+        "id": "b7817e8b4803c023",
         "type": "tabs",
         "children": [
           {
-            "id": "8609bcdc93e4e4f5",
+            "id": "2efab9d5ae306334",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,8 +84,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,11 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8609bcdc93e4e4f5",
+  "active": "2efab9d5ae306334",
   "lastOpenFiles": [
+    "Sem título.canvas",
+    "Módulos/M1/O QUE É IA REALMENTE?.md",
     "Excalidraw/Drawing 2026-07-22 11.26.15.excalidraw.md",
     "Excalidraw/Drawing 2026-07-22 11.26.17.excalidraw.md",
-    "Módulos/M1/O QUE É IA REALMENTE?.md",
     "Excalidraw",
     "Bem-vindo.md",
     "Módulos/M6",
