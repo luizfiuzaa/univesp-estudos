@@ -24,3 +24,9 @@ O erro humano é acreditar que todo e qualquer resultado retornado por um Agente
 
 > Devemos passar a tratar as IAs como elas realmente são: ferramentas de otimização.
 
+### Material Base
+> [m1-ebook online](https://assets.univesp.br/disciplinas/COM170/pdf/quinzena-1/m1-e-book.pdf)
+> [m1-ebook local](m1-e-book.pdf)
+
+> [COM170_apostila_quinzena1_M1 online](https://assets.univesp.br/apostilas/COM170/COM170_apostila_quinzena1_M1.pdf)
+> [COM170_apostila_quinzena1_M1 local](COM170_apostila_quinzena1_M1.pdf)

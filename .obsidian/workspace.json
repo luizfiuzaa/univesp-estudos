@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7817e8b4803c023",
+        "id": "55ba0d84fef3748b",
         "type": "tabs",
         "children": [
           {
-            "id": "2efab9d5ae306334",
+            "id": "b48e593805ca3b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Módulos/M1/O QUE É IA REALMENTE?.md",
+                "file": "Engenharia-da-Computação/Inteligência Artificial na Prática Acadêmica e Profissional/Módulos/M1/O QUE É IA REALMENTE?.md",
                 "mode": "source",
                 "source": false
               },
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 282.5
   },
   "right": {
     "id": "9c23d25d7f5c38fb",
@@ -218,22 +218,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2efab9d5ae306334",
+  "active": "b48e593805ca3b0d",
   "lastOpenFiles": [
+    "Engenharia-da-Computação/Inteligência Artificial na Prática Acadêmica e Profissional/Módulos/M1/COM170_apostila_quinzena1_M1.pdf",
+    "Engenharia-da-Computação/Inteligência Artificial na Prática Acadêmica e Profissional/Módulos/M1/O QUE É IA REALMENTE?.md",
+    "Engenharia-da-Computação/Inteligência Artificial na Prática Acadêmica e Profissional/Módulos/M1/m1-e-book.pdf",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Quinzena/Q1",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Quinzena",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M6",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M5",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M4",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M3",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M2",
+    "Engenharia-da-Computação/AIA - Ambientação e Integração Acadêmica/Módulos/M1",
+    "Engenharia-da-Computação/Pensamento Computacional/Módulos/M1/O QUE É IA REALMENTE?.md",
     "Sem título.canvas",
-    "Módulos/M1/O QUE É IA REALMENTE?.md",
     "Excalidraw/Drawing 2026-07-22 11.26.15.excalidraw.md",
     "Excalidraw/Drawing 2026-07-22 11.26.17.excalidraw.md",
-    "Excalidraw",
-    "Bem-vindo.md",
-    "Módulos/M6",
-    "Módulos/M5",
-    "Módulos/M4",
-    "Módulos/M3",
-    "Módulos/M2",
-    "Módulos/M1",
-    "Módulos",
-    "Inteligência Artificial na Prática Acadêmica e Profissional/Quinzena/Q1",
-    "Inteligência Artificial na Prática Acadêmica e Profissional/Quinzena"
+    "Bem-vindo.md"
   ]
 }
